@@ -1,0 +1,24 @@
+SMAP
+AddBorrower_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddBorrower.jsp
+AddBorrower.jsp
++ 1 AdminHeader.jsp
+AdminHeader.jsp
++ 2 AdminVerticalHeader.jsp
+AdminVerticalHeader.jsp
+*L
+5,88:50
+1#1,184:138
+92#0,4:321
+100:330,2
+101,7:332
+5#2,44:339
+107#0,106:383
+212,9:489
+220,7:498
+227:505,3
+228,15:508
+*E

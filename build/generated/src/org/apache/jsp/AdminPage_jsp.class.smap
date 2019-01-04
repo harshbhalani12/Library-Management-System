@@ -1,0 +1,18 @@
+SMAP
+AdminPage_jsp.java
+JSP
+*S JSP
+*F
++ 0 AdminPage.jsp
+AdminPage.jsp
++ 1 AdminHeader.jsp
+AdminHeader.jsp
++ 2 AdminVerticalHeader.jsp
+AdminVerticalHeader.jsp
+*L
+5,105:50
+1#1,184:155
+109#0,9:338
+5#2,44:347
+117#0,106:391
+*E

@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1 Mar, 2017, 10:33:22 AM
+    Author     : Admin
+*/
+
+#side-tabs a.support {
+    
+    left: 0px;
+    top: 250px;
+    height: 108px;
+    width: 45px;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    z-index: 9999;
+    display:block;
+}
