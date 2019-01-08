@@ -11,4 +11,5 @@ The core features are Search Books, Manage Book Loans, Fine Management, and Borr
 - Fine Management: It has update fines and pay fines functionalities for overdue books and pay fines for the overdue books for particular borrower.
 
 **Technology used:** Java, J2EE, JSP, Servlets, AJAX
+
 Database: MS SQL Server
